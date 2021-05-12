@@ -1,0 +1,2 @@
+# amplify
+static website
